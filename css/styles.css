@@ -1,0 +1,49 @@
+body {
+	font-family: Inter, sans-serif;
+}
+
+footer {
+	font-family: 'PT Sans', sans-serif;
+	font-size: 11px;
+	letter-spacing: -.04em;
+	color: #a7a7a7;
+}
+
+a:not(.btn) {
+	color: inherit;
+	text-decoration-style: dotted;
+	text-underline-offset: 0.2rem
+}
+
+a:not(.btn):hover {
+	text-decoration: underline !important
+}
+
+a.discrete-link {
+	color: inherit !important;
+	text-decoration: none !important
+}
+
+footer a {
+	color: #7d7d7d !important;
+	text-decoration: none
+}
+
+.content-separator {
+	border-top: 1px solid #e5e5e5;
+	padding-bottom: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 75%;
+	max-width: 290px
+}
+
+.portrait {
+	width: 165px;
+	height: 165px
+}
+
+.tooltip-inner,
+.tooltip-wide .tooltip.bottom {
+	max-width: none
+}
