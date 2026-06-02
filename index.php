@@ -1,4 +1,4 @@
-<html>
+<html lang="en">
 
 <head>
   <meta charset="UTF-8">
@@ -26,9 +26,10 @@
           <img src="/img/github.png" alt="Felix Steer" class="rounded portrait">
           <div class="title">
             <h1 class="mt-3">Felix Steer</h1>
-            <a class="small" href="https://en.pronouns.page/@ciiro" target="_blank">(they/them)</a>
+            <a class="small" href="https://en.pronouns.page/@ciiro" target="_blank"
+              aria-label="Pronouns Page">(they/them)</a>
           </div>
-          <p class="lead fs-4">Developer and IT Administrator</p>
+          <h2 class="lead fs-4">Developer and IT Administrator</h2>
         </header>
         <div class="content-separator"></div>
         <main class="lead">
