@@ -24,7 +24,10 @@
       <div class="col">
         <header>
           <img src="/img/github.png" alt="Felix Steer" class="rounded portrait">
-          <h1 class="mt-3">Felix Steer</h1>
+          <div class="title">
+            <h1 class="mt-3">Felix Steer</h1>
+            <a class="small" href="https://en.pronouns.page/@ciiro" target="_blank">(they/them)</a>
+          </div>
           <p class="lead fs-4">Developer and IT Administrator</p>
         </header>
         <div class="content-separator"></div>

@@ -9,6 +9,14 @@ footer {
 	color: #a7a7a7;
 }
 
+h1 {
+	margin-bottom: 0;
+}
+
+div.title {
+	margin-bottom: 10px;
+}
+
 a:not(.btn) {
 	color: inherit;
 	text-decoration-style: dotted;
@@ -22,6 +30,11 @@ a:not(.btn):hover {
 a.discrete-link {
 	color: inherit !important;
 	text-decoration: none !important
+}
+
+a.small {
+	font-size: 15px;
+	padding-bottom: 160px;
 }
 
 footer a {
