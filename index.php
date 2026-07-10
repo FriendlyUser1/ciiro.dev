@@ -73,7 +73,7 @@
 			</div>
 		</div>
 	</div>
-	<script src="/js/bootstrap.bundle.js"></script>
+	<script src="/js/bootstrap.bundle.min.js"></script>
 	<script>
 		const tooltipTriggerList = [].slice.call(
 			document.querySelectorAll('[data-bs-toggle="tooltip"]'),
