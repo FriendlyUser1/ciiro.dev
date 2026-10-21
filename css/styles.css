@@ -1,13 +1,14 @@
 :root {
 	--bg: #d8d9ee;
 	--text: #000;
-	--sep: #e5e5e5
+	--sep: #010103;
 }
 
 @media (prefers-color-scheme: dark) {
 	:root {
 		--bg: #1f1f2b;
 		--text: #d8d9ee;
+		--sep: #e5e5e5;
 	}
 }
 
